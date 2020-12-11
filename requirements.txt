@@ -1,0 +1,8 @@
+bs4
+proxyscrape
+fake_useragent
+playwright
+lxml
+selenium
+selenium-wire
+requests
